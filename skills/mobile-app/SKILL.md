@@ -1,6 +1,7 @@
 ---
 name: mobile-app
 description: "Plan, design, build, audit, and improve trustworthy mobile apps for iOS, Android, and cross-platform stacks. Use for mobile product strategy, category research, acquisition, store presence, and MVP scoping; user journeys, navigation, search, dashboards, screens, design systems, motion, and accessibility; onboarding, permissions, notifications, retention, gamification, paywalls, subscriptions, consumables, and virtual currency; mobile architecture, integrations, state management, offline behavior, security, performance, testing, analytics, store readiness, and release; or AI-assisted and agentic mobile experiences. Also use when reviewing an existing mobile app or repository for product, UX, engineering, growth, or trust problems."
+license: "Proprietary. See LICENSE.txt."
 ---
 
 # Mobile App

@@ -1,0 +1,39 @@
+{
+  "name": "mobile-app",
+  "version": "1.0.0",
+  "description": "Plan, design, build, audit, and improve trustworthy mobile apps across product, experience, engineering, growth, and AI.",
+  "author": {
+    "name": "HarishChandran3304",
+    "url": "https://github.com/HarishChandran3304"
+  },
+  "homepage": "https://github.com/HarishChandran3304/mobile-app",
+  "repository": "https://github.com/HarishChandran3304/mobile-app",
+  "license": "Proprietary",
+  "keywords": [
+    "mobile-app",
+    "ios",
+    "android",
+    "product-design",
+    "ux",
+    "app-development"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mobile App",
+    "shortDescription": "Design and build trustworthy mobile products",
+    "longDescription": "Plan, design, build, audit, and improve iOS, Android, and cross-platform apps from product strategy through release.",
+    "developerName": "HarishChandran3304",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/HarishChandran3304/mobile-app",
+    "brandColor": "#6D5EF8",
+    "defaultPrompt": [
+      "Use $mobile-app to turn my app idea into a focused MVP plan.",
+      "Use $mobile-app to audit this mobile app and prioritize improvements.",
+      "Use $mobile-app to design and implement this mobile feature."
+    ]
+  }
+}
