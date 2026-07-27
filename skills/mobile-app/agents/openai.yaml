@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile App"
+  short_description: "Design and build trustworthy mobile products"
+  default_prompt: "Use $mobile-app to plan and build a high-quality mobile app from product strategy through release."
